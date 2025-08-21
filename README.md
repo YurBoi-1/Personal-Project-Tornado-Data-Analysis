@@ -1,2 +1,3 @@
 The largest map that the code in the notebook creates is too large to upload to github, so if you wish to view it in its fully interactive form, you must download the notebook and run all code cells up to and including the one that contains the save map function for that map. Please also note that one must have jupyter notebook as well as all python libraries that the notebook depends on to do this.
+
 To view any other map, please find the HTML file that has a matching name with the map that is saved in the notebook and download it. The map then may be viewed by opening the file in any browser.
